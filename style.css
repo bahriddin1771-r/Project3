@@ -64,3 +64,24 @@ header {
     left: 780px;
     bottom: 213px;
 }
+.s2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 40px;
+}
+.txt1 {
+    display: flex;
+    justify-content: center;
+    gap: 55px;
+    margin-top: 15px;
+    margin-left: -30px;
+}
+.txt1 p {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+#a2 {
+    border-bottom: 2px solid red;
+}
